@@ -2,6 +2,6 @@ ini line 1 ini line ke 1
 ini line 2 ini line ke 2
 ini line 3 ini line ke 3
 ini line 4 ini line ke 4
-ini line 5 ini line ke 5
+ini ubah 5 ini line ke 5
 ini line 6 ini line ke 6
-ini line 7 ini line ke 7 
+ini line 7 ini ubah ke 7 
